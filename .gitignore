@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/*.csv
+.DS_Store
+outputs/01_전처리_보행노인.csv
